@@ -7,14 +7,17 @@ import os
 from time import sleep, time, ctime
 
 parser = argparse.ArgumentParser('get-cards.py')
+parser.add_argument('database', nargs='?', default='database/prices.tsv', 
+        help='Update database [U], defaults to databse/prices.tsv')
+
 args = parser.parse_args()
 
 runtime = ctime(time())
-db_name = 'database/prices.tsv'
+db_name = args.database
 
 
 def read_database(db_file):
-    with open(db_file) as tsvfile:
+    with open(db_file, 'r') as tsvfile:
         database = csv.DictReader(tsvfile, delimiter=' ', quotechar='"')
     tsvfile.close()
     return database
@@ -37,7 +40,7 @@ def get_price(watchfile):
             if cardname != '':
                 sleep(0.1)
                 try:
-                    data = scrython.cards.Search(q='++{}'.format(cardname))
+                    data = scrython.cards.Search(q='++{}'.format(cardname), order='alphabetical')
                     for card in data.data():
                         card_obj = (card['name'], card['set'].upper(), card['prices'])
                         cards.append(card_obj)

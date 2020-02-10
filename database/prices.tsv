@@ -1,136 +1,136 @@
-name	set	Sun Feb  9 03:09:41 2020
-Delver of Secrets // Insectile Aberration	ISD	{'usd': '0.78', 'usd_foil': '5.22', 'eur': '1.05', 'tix': '0.03'}
+name	set	Mon Feb 10 12:07:11 2020
+Delver of Secrets // Insectile Aberration	ISD	{'usd': '0.79', 'usd_foil': '5.22', 'eur': '1.03', 'tix': '0.03'}
 Delver of Secrets // Insectile Aberration	V17	{'usd': None, 'usd_foil': '4.18', 'eur': '5.99', 'tix': '1.46'}
-Snapcaster Mage	UMA	{'usd': '44.17', 'usd_foil': '83.77', 'eur': '43.43', 'tix': '13.39'}
-Snapcaster Mage	MM3	{'usd': '43.19', 'usd_foil': '97.25', 'eur': '41.47', 'tix': '7.92'}
-Snapcaster Mage	ISD	{'usd': '41.88', 'usd_foil': '152.71', 'eur': '37.42', 'tix': '4.27'}
-Snapcaster Mage	PUMA	{'usd': None, 'usd_foil': '151.50', 'eur': '147.39', 'tix': '57.60'}
-Snapcaster Mage	PRM	{'usd': None, 'usd_foil': None, 'eur': None, 'tix': '16.87'}
-Snapcaster Mage	PPRO	{'usd': None, 'usd_foil': '140.01', 'eur': None, 'tix': None}
-Vendilion Clique	A25	{'usd': '14.12', 'usd_foil': '29.61', 'eur': '13.01', 'tix': '3.04'}
-Vendilion Clique	MM2	{'usd': '19.98', 'usd_foil': '26.34', 'eur': '12.64', 'tix': '2.72'}
-Vendilion Clique	MMA	{'usd': '20.00', 'usd_foil': '41.49', 'eur': '13.62', 'tix': '2.70'}
-Vendilion Clique	MOR	{'usd': '22.02', 'usd_foil': '93.35', 'eur': '11.76', 'tix': '2.74'}
+Snapcaster Mage	UMA	{'usd': '43.59', 'usd_foil': '83.77', 'eur': '42.89', 'tix': '13.43'}
+Snapcaster Mage	MM3	{'usd': '43.19', 'usd_foil': '97.25', 'eur': '41.43', 'tix': '7.83'}
+Snapcaster Mage	ISD	{'usd': '41.56', 'usd_foil': '152.71', 'eur': '36.83', 'tix': '5.02'}
+Snapcaster Mage	PUMA	{'usd': None, 'usd_foil': '151.50', 'eur': '123.97', 'tix': '57.60'}
+Snapcaster Mage	PRM	{'usd': None, 'usd_foil': None, 'eur': None, 'tix': '16.30'}
+Snapcaster Mage	PPRO	{'usd': None, 'usd_foil': '139.75', 'eur': None, 'tix': None}
+Vendilion Clique	A25	{'usd': '14.12', 'usd_foil': '29.61', 'eur': '13.06', 'tix': '3.04'}
+Vendilion Clique	MM2	{'usd': '19.98', 'usd_foil': '26.34', 'eur': '12.71', 'tix': '2.76'}
+Vendilion Clique	MMA	{'usd': '20.02', 'usd_foil': '41.49', 'eur': '13.55', 'tix': '2.72'}
+Vendilion Clique	MOR	{'usd': '22.02', 'usd_foil': '93.35', 'eur': '11.73', 'tix': '2.59'}
 Vendilion Clique	PRM	{'usd': None, 'usd_foil': None, 'eur': None, 'tix': '4.23'}
 Vendilion Clique	G11	{'usd': None, 'usd_foil': '82.05', 'eur': '60.37', 'tix': None}
 Grim Lavamancer	E01	{'usd': '4.59', 'usd_foil': None, 'eur': '3.34', 'tix': None}
-Grim Lavamancer	M12	{'usd': '2.56', 'usd_foil': '11.12', 'eur': '2.69', 'tix': '0.09'}
-Grim Lavamancer	TOR	{'usd': '8.79', 'usd_foil': '97.01', 'eur': '4.54', 'tix': '0.63'}
-Grim Lavamancer	PD2	{'usd': None, 'usd_foil': '3.46', 'eur': '3.09', 'tix': None}
+Grim Lavamancer	M12	{'usd': '2.56', 'usd_foil': '11.12', 'eur': '2.70', 'tix': '0.12'}
+Grim Lavamancer	TOR	{'usd': '8.79', 'usd_foil': '97.01', 'eur': '4.50', 'tix': '0.68'}
+Grim Lavamancer	PD2	{'usd': None, 'usd_foil': '3.46', 'eur': '3.07', 'tix': None}
 Grim Lavamancer	PRM	{'usd': None, 'usd_foil': None, 'eur': None, 'tix': '11.92'}
 Grim Lavamancer	G06	{'usd': None, 'usd_foil': '18.06', 'eur': '17.75', 'tix': None}
-Nimble Obstructionist	HOU	{'usd': '0.96', 'usd_foil': '3.49', 'eur': '1.11', 'tix': '0.61'}
+Nimble Obstructionist	HOU	{'usd': '1.00', 'usd_foil': '3.50', 'eur': '1.10', 'tix': '0.66'}
 Nimble Obstructionist	PHOU	{'usd': None, 'usd_foil': '3.84', 'eur': None, 'tix': None}
-Serum Visions	MM3	{'usd': '1.66', 'usd_foil': '5.06', 'eur': '1.95', 'tix': '0.34'}
-Serum Visions	CN2	{'usd': '1.94', 'usd_foil': '8.10', 'eur': '1.63', 'tix': None}
-Serum Visions	5DN	{'usd': '2.02', 'usd_foil': '15.75', 'eur': '1.40', 'tix': '0.36'}
-Serum Visions	SLD	{'usd': None, 'usd_foil': None, 'eur': '12.16', 'tix': None}
+Serum Visions	MM3	{'usd': '1.66', 'usd_foil': '5.06', 'eur': '1.85', 'tix': '0.37'}
+Serum Visions	CN2	{'usd': '1.94', 'usd_foil': '8.10', 'eur': '1.73', 'tix': None}
+Serum Visions	5DN	{'usd': '2.02', 'usd_foil': '15.75', 'eur': '1.33', 'tix': '0.36'}
+Serum Visions	SLD	{'usd': None, 'usd_foil': None, 'eur': '12.10', 'tix': None}
 Serum Visions	SLD	{'usd': None, 'usd_foil': None, 'eur': '13.66', 'tix': None}
 Serum Visions	SLD	{'usd': None, 'usd_foil': None, 'eur': '14.02', 'tix': None}
-Serum Visions	SLD	{'usd': None, 'usd_foil': None, 'eur': '13.62', 'tix': None}
-Serum Visions	PRM	{'usd': None, 'usd_foil': None, 'eur': None, 'tix': '0.35'}
+Serum Visions	SLD	{'usd': None, 'usd_foil': None, 'eur': '13.15', 'tix': None}
+Serum Visions	PRM	{'usd': None, 'usd_foil': None, 'eur': None, 'tix': '0.18'}
 Serum Visions	F15	{'usd': None, 'usd_foil': '3.13', 'eur': None, 'tix': None}
-Serum Visions	PRM	{'usd': None, 'usd_foil': None, 'eur': None, 'tix': '0.35'}
-Serum Visions	PAL04	{'usd': None, 'usd_foil': '12.86', 'eur': None, 'tix': None}
+Serum Visions	PRM	{'usd': None, 'usd_foil': None, 'eur': None, 'tix': '0.26'}
+Serum Visions	PAL04	{'usd': None, 'usd_foil': '11.85', 'eur': None, 'tix': None}
 Burst Lightning	MM2	{'usd': '0.15', 'usd_foil': '0.31', 'eur': '0.18', 'tix': '0.03'}
-Burst Lightning	ZEN	{'usd': '0.21', 'usd_foil': '1.34', 'eur': '0.15', 'tix': '0.04'}
+Burst Lightning	ZEN	{'usd': '0.21', 'usd_foil': '1.34', 'eur': '0.18', 'tix': '0.04'}
 Burst Lightning	MB1	{'usd': None, 'usd_foil': None, 'eur': None, 'tix': None}
 Burst Lightning	PRM	{'usd': None, 'usd_foil': None, 'eur': None, 'tix': '0.04'}
 Burst Lightning	P10	{'usd': '2.80', 'usd_foil': None, 'eur': None, 'tix': None}
-Lightning Bolt	A25	{'usd': '1.37', 'usd_foil': '5.03', 'eur': '2.62', 'tix': '0.53'}
-Lightning Bolt	E01	{'usd': '2.31', 'usd_foil': None, 'eur': '2.51', 'tix': None}
-Lightning Bolt	MM2	{'usd': '1.69', 'usd_foil': '3.16', 'eur': '2.32', 'tix': '0.27'}
-Lightning Bolt	M11	{'usd': '1.40', 'usd_foil': '9.07', 'eur': '2.03', 'tix': '0.24'}
-Lightning Bolt	M10	{'usd': '1.55', 'usd_foil': '11.49', 'eur': '1.93', 'tix': '0.30'}
-Lightning Bolt	ME1	{'usd': None, 'usd_foil': None, 'eur': None, 'tix': '0.40'}
-Lightning Bolt	4ED	{'usd': '2.05', 'usd_foil': None, 'eur': '1.78', 'tix': None}
+Lightning Bolt	A25	{'usd': '1.37', 'usd_foil': '5.03', 'eur': '2.60', 'tix': '0.53'}
+Lightning Bolt	E01	{'usd': '2.31', 'usd_foil': None, 'eur': '2.60', 'tix': None}
+Lightning Bolt	MM2	{'usd': '1.67', 'usd_foil': '3.16', 'eur': '2.34', 'tix': '0.30'}
+Lightning Bolt	M11	{'usd': '1.42', 'usd_foil': '8.08', 'eur': '2.05', 'tix': '0.25'}
+Lightning Bolt	M10	{'usd': '1.56', 'usd_foil': '11.49', 'eur': '1.94', 'tix': '0.27'}
+Lightning Bolt	ME1	{'usd': None, 'usd_foil': None, 'eur': None, 'tix': '0.26'}
+Lightning Bolt	4ED	{'usd': '2.02', 'usd_foil': None, 'eur': '1.77', 'tix': None}
 Lightning Bolt	SUM	{'usd': None, 'usd_foil': None, 'eur': '2.00', 'tix': None}
-Lightning Bolt	3ED	{'usd': '2.13', 'usd_foil': None, 'eur': '1.94', 'tix': None}
-Lightning Bolt	2ED	{'usd': '22.22', 'usd_foil': None, 'eur': '8.58', 'tix': None}
+Lightning Bolt	3ED	{'usd': '2.13', 'usd_foil': None, 'eur': '1.89', 'tix': None}
+Lightning Bolt	2ED	{'usd': '22.22', 'usd_foil': None, 'eur': '9.12', 'tix': None}
 Lightning Bolt	LEB	{'usd': '299.99', 'usd_foil': None, 'eur': '104.99', 'tix': None}
 Lightning Bolt	LEA	{'usd': '350.00', 'usd_foil': None, 'eur': '380.28', 'tix': None}
-Lightning Bolt	MB1	{'usd': '2.45', 'usd_foil': None, 'eur': None, 'tix': None}
-Lightning Bolt	PF19	{'usd': '8.55', 'usd_foil': '11.32', 'eur': None, 'tix': None}
-Lightning Bolt	PRM	{'usd': None, 'usd_foil': None, 'eur': None, 'tix': '1.48'}
+Lightning Bolt	MB1	{'usd': '2.46', 'usd_foil': None, 'eur': None, 'tix': None}
+Lightning Bolt	PF19	{'usd': '8.38', 'usd_foil': '11.41', 'eur': None, 'tix': None}
+Lightning Bolt	PRM	{'usd': None, 'usd_foil': None, 'eur': None, 'tix': '1.42'}
 Lightning Bolt	PRM	{'usd': None, 'usd_foil': None, 'eur': None, 'tix': None}
 Lightning Bolt	PD2	{'usd': None, 'usd_foil': '2.10', 'eur': '2.38', 'tix': None}
-Lightning Bolt	TD0	{'usd': None, 'usd_foil': None, 'eur': None, 'tix': '0.28'}
+Lightning Bolt	TD0	{'usd': None, 'usd_foil': None, 'eur': None, 'tix': '0.26'}
 Lightning Bolt	TD0	{'usd': None, 'usd_foil': None, 'eur': None, 'tix': '4.24'}
-Lightning Bolt	P10	{'usd': None, 'usd_foil': '37.19', 'eur': None, 'tix': None}
+Lightning Bolt	P10	{'usd': None, 'usd_foil': '37.07', 'eur': None, 'tix': None}
 Lightning Bolt	BTD	{'usd': '3.66', 'usd_foil': None, 'eur': '3.32', 'tix': None}
 Lightning Bolt	ATH	{'usd': '3.29', 'usd_foil': None, 'eur': '3.07', 'tix': None}
-Lightning Bolt	JGP	{'usd': None, 'usd_foil': '449.98', 'eur': '287.50', 'tix': None}
+Lightning Bolt	JGP	{'usd': None, 'usd_foil': '449.98', 'eur': '428.17', 'tix': None}
 Lightning Bolt	4BB	{'usd': None, 'usd_foil': None, 'eur': None, 'tix': None}
 Lightning Bolt	FBB	{'usd': '38.97', 'usd_foil': None, 'eur': None, 'tix': None}
-Magmatic Sinkhole	MH1	{'usd': '0.11', 'usd_foil': '3.81', 'eur': '0.11', 'tix': '0.02'}
-Mana Leak	IMA	{'usd': '0.26', 'usd_foil': '0.56', 'eur': '0.20', 'tix': '0.04'}
-Mana Leak	MM2	{'usd': '0.22', 'usd_foil': '0.67', 'eur': '0.20', 'tix': '0.03'}
+Magmatic Sinkhole	MH1	{'usd': '0.09', 'usd_foil': '3.78', 'eur': '0.12', 'tix': '0.02'}
+Mana Leak	IMA	{'usd': '0.25', 'usd_foil': '0.56', 'eur': '0.20', 'tix': '0.04'}
+Mana Leak	MM2	{'usd': '0.22', 'usd_foil': '0.67', 'eur': '0.22', 'tix': '0.03'}
 Mana Leak	TPR	{'usd': None, 'usd_foil': None, 'eur': None, 'tix': '0.04'}
 Mana Leak	DDN	{'usd': '0.20', 'usd_foil': None, 'eur': '0.26', 'tix': None}
-Mana Leak	M12	{'usd': '0.22', 'usd_foil': '2.17', 'eur': '0.26', 'tix': '0.04'}
+Mana Leak	M12	{'usd': '0.22', 'usd_foil': '2.17', 'eur': '0.25', 'tix': '0.04'}
 Mana Leak	M11	{'usd': '0.22', 'usd_foil': '2.28', 'eur': '0.16', 'tix': '0.03'}
-Mana Leak	9ED	{'usd': '0.24', 'usd_foil': '10.79', 'eur': '0.13', 'tix': '0.03'}
+Mana Leak	9ED	{'usd': '0.24', 'usd_foil': '10.79', 'eur': '0.14', 'tix': '0.03'}
 Mana Leak	8ED	{'usd': '0.21', 'usd_foil': '11.08', 'eur': '0.16', 'tix': '0.04'}
-Mana Leak	STH	{'usd': '0.34', 'usd_foil': None, 'eur': '0.29', 'tix': '0.05'}
+Mana Leak	STH	{'usd': '0.34', 'usd_foil': None, 'eur': '0.33', 'tix': '0.05'}
 Mana Leak	MB1	{'usd': None, 'usd_foil': None, 'eur': None, 'tix': None}
 Mana Leak	PRM	{'usd': None, 'usd_foil': None, 'eur': None, 'tix': '0.04'}
 Mana Leak	PS11	{'usd': None, 'usd_foil': None, 'eur': None, 'tix': None}
 Mana Leak	P05	{'usd': '11.35', 'usd_foil': None, 'eur': None, 'tix': None}
 Mana Leak	PAL02	{'usd': None, 'usd_foil': '52.99', 'eur': None, 'tix': None}
-Mana Leak	BRB	{'usd': '0.94', 'usd_foil': None, 'eur': '0.57', 'tix': None}
-Remand	MM2	{'usd': '2.60', 'usd_foil': '5.50', 'eur': '2.87', 'tix': '0.29'}
-Remand	DDM	{'usd': '2.40', 'usd_foil': None, 'eur': '2.94', 'tix': '4.86'}
-Remand	RAV	{'usd': '4.28', 'usd_foil': '19.85', 'eur': '2.75', 'tix': '0.32'}
-Remand	PRM	{'usd': None, 'usd_foil': None, 'eur': None, 'tix': '0.26'}
+Mana Leak	BRB	{'usd': '0.94', 'usd_foil': None, 'eur': '0.55', 'tix': None}
+Remand	MM2	{'usd': '2.60', 'usd_foil': '5.46', 'eur': '2.85', 'tix': '0.33'}
+Remand	DDM	{'usd': '2.42', 'usd_foil': None, 'eur': '2.86', 'tix': '4.86'}
+Remand	RAV	{'usd': '4.28', 'usd_foil': '19.85', 'eur': '2.71', 'tix': '0.31'}
+Remand	PRM	{'usd': None, 'usd_foil': None, 'eur': None, 'tix': '0.33'}
 Remand	F08	{'usd': None, 'usd_foil': '20.31', 'eur': None, 'tix': None}
-Wizard's Lightning	DOM	{'usd': '0.26', 'usd_foil': '1.13', 'eur': '0.27', 'tix': '0.04'}
-Fiery Islet	MH1	{'usd': '7.58', 'usd_foil': '33.17', 'eur': '8.07', 'tix': '9.50'}
-Flooded Strand	KTK	{'usd': '14.44', 'usd_foil': '36.83', 'eur': '11.81', 'tix': '4.18'}
-Flooded Strand	ONS	{'usd': '36.45', 'usd_foil': '307.75', 'eur': '20.28', 'tix': '8.91'}
-Flooded Strand	PRM	{'usd': None, 'usd_foil': None, 'eur': None, 'tix': '6.14'}
+Wizard's Lightning	DOM	{'usd': '0.26', 'usd_foil': '1.13', 'eur': '0.27', 'tix': '0.03'}
+Fiery Islet	MH1	{'usd': '7.61', 'usd_foil': '33.17', 'eur': '8.02', 'tix': '9.77'}
+Flooded Strand	KTK	{'usd': '13.47', 'usd_foil': '36.83', 'eur': '11.89', 'tix': '3.59'}
+Flooded Strand	ONS	{'usd': '36.45', 'usd_foil': '307.75', 'eur': '19.00', 'tix': '8.74'}
+Flooded Strand	PRM	{'usd': None, 'usd_foil': None, 'eur': None, 'tix': '6.32'}
 Flooded Strand	PNAT	{'usd': None, 'usd_foil': '54.31', 'eur': None, 'tix': None}
-Flooded Strand	EXP	{'usd': None, 'usd_foil': '208.22', 'eur': '150.24', 'tix': '7.69'}
+Flooded Strand	EXP	{'usd': None, 'usd_foil': '208.22', 'eur': '147.42', 'tix': '7.69'}
 Flooded Strand	PRM	{'usd': None, 'usd_foil': None, 'eur': None, 'tix': '15.67'}
 Flooded Strand	G09	{'usd': None, 'usd_foil': '169.88', 'eur': '92.00', 'tix': None}
-Mutavault	M14	{'usd': '22.17', 'usd_foil': '15.48', 'eur': '12.02', 'tix': '15.09'}
-Mutavault	MOR	{'usd': '19.73', 'usd_foil': '39.99', 'eur': '11.95', 'tix': '15.16'}
+Mutavault	M14	{'usd': '22.67', 'usd_foil': '15.48', 'eur': '12.26', 'tix': '14.18'}
+Mutavault	MOR	{'usd': '21.55', 'usd_foil': '39.99', 'eur': '12.24', 'tix': '14.16'}
 Mutavault	PGPX	{'usd': None, 'usd_foil': '21.87', 'eur': '6.10', 'tix': None}
 Mutavault	PRM	{'usd': None, 'usd_foil': None, 'eur': None, 'tix': None}
 Mutavault	PRM	{'usd': None, 'usd_foil': None, 'eur': None, 'tix': '38.85'}
 Mutavault	PCMP	{'usd': None, 'usd_foil': '499.99', 'eur': None, 'tix': None}
-Scalding Tarn	MM3	{'usd': '62.84', 'usd_foil': '111.12', 'eur': '56.15', 'tix': '13.29'}
-Scalding Tarn	ZEN	{'usd': '67.64', 'usd_foil': '199.77', 'eur': '52.24', 'tix': '11.31'}
-Scalding Tarn	EXP	{'usd': None, 'usd_foil': '316.91', 'eur': '218.64', 'tix': '13.87'}
-Spirebluff Canal	KLD	{'usd': '11.31', 'usd_foil': '16.16', 'eur': '9.23', 'tix': '6.51'}
+Scalding Tarn	MM3	{'usd': '62.85', 'usd_foil': '111.12', 'eur': '55.61', 'tix': '13.24'}
+Scalding Tarn	ZEN	{'usd': '67.64', 'usd_foil': '199.77', 'eur': '51.63', 'tix': '10.48'}
+Scalding Tarn	EXP	{'usd': None, 'usd_foil': '314.56', 'eur': '216.40', 'tix': '14.57'}
+Spirebluff Canal	KLD	{'usd': '11.12', 'usd_foil': '16.17', 'eur': '9.51', 'tix': '6.82'}
 Spirebluff Canal	PKLD	{'usd': None, 'usd_foil': '16.88', 'eur': None, 'tix': None}
-Steam Vents	GRN	{'usd': '12.44', 'usd_foil': '19.69', 'eur': '10.68', 'tix': '2.03'}
-Steam Vents	RTR	{'usd': '12.10', 'usd_foil': '21.45', 'eur': '10.43', 'tix': '2.05'}
-Steam Vents	GPT	{'usd': '24.44', 'usd_foil': '155.99', 'eur': '10.70', 'tix': '2.03'}
+Steam Vents	GRN	{'usd': '12.44', 'usd_foil': '19.53', 'eur': '10.95', 'tix': '2.05'}
+Steam Vents	RTR	{'usd': '12.12', 'usd_foil': '21.45', 'eur': '10.77', 'tix': '2.05'}
+Steam Vents	GPT	{'usd': '24.44', 'usd_foil': '155.99', 'eur': '10.93', 'tix': '2.09'}
 Steam Vents	PRM	{'usd': None, 'usd_foil': None, 'eur': None, 'tix': None}
 Steam Vents	PGRN	{'usd': None, 'usd_foil': None, 'eur': None, 'tix': None}
-Steam Vents	EXP	{'usd': None, 'usd_foil': '100.59', 'eur': '90.71', 'tix': '5.24'}
-Alpine Moon	M19	{'usd': '1.65', 'usd_foil': '9.37', 'eur': '1.86', 'tix': '0.19'}
+Steam Vents	EXP	{'usd': None, 'usd_foil': '100.59', 'eur': '90.10', 'tix': '5.31'}
+Alpine Moon	M19	{'usd': '1.56', 'usd_foil': '9.37', 'eur': '1.85', 'tix': '0.53'}
 Alpine Moon	PM19	{'usd': None, 'usd_foil': '4.31', 'eur': None, 'tix': None}
-Blood Moon	A25	{'usd': '11.89', 'usd_foil': '22.99', 'eur': '11.75', 'tix': '7.81'}
-Blood Moon	MM3	{'usd': '11.11', 'usd_foil': '18.80', 'eur': '11.64', 'tix': '7.27'}
-Blood Moon	MMA	{'usd': '11.75', 'usd_foil': '25.80', 'eur': '11.88', 'tix': '7.62'}
-Blood Moon	9ED	{'usd': '15.06', 'usd_foil': None, 'eur': '10.09', 'tix': '7.27'}
-Blood Moon	8ED	{'usd': '14.47', 'usd_foil': '73.62', 'eur': '10.79', 'tix': '7.33'}
-Blood Moon	CHR	{'usd': '11.96', 'usd_foil': None, 'eur': '11.60', 'tix': None}
-Blood Moon	DRK	{'usd': '60.11', 'usd_foil': None, 'eur': '42.72', 'tix': None}
-Blood Moon	MP2	{'usd': None, 'usd_foil': '104.14', 'eur': '67.66', 'tix': '8.09'}
+Blood Moon	A25	{'usd': '11.86', 'usd_foil': '22.99', 'eur': '12.18', 'tix': '8.17'}
+Blood Moon	MM3	{'usd': '11.36', 'usd_foil': '18.52', 'eur': '11.57', 'tix': '7.50'}
+Blood Moon	MMA	{'usd': '11.75', 'usd_foil': '25.79', 'eur': '11.47', 'tix': '7.48'}
+Blood Moon	9ED	{'usd': '15.06', 'usd_foil': None, 'eur': '10.16', 'tix': '7.27'}
+Blood Moon	8ED	{'usd': '14.47', 'usd_foil': '73.62', 'eur': '10.84', 'tix': '7.40'}
+Blood Moon	CHR	{'usd': '11.96', 'usd_foil': None, 'eur': '11.64', 'tix': None}
+Blood Moon	DRK	{'usd': '59.39', 'usd_foil': None, 'eur': '45.17', 'tix': None}
+Blood Moon	MP2	{'usd': None, 'usd_foil': '104.14', 'eur': '65.76', 'tix': '8.20'}
 Izzet Staticaster	RTR	{'usd': '0.15', 'usd_foil': '6.32', 'eur': '0.29', 'tix': '0.03'}
-Leyline of the Void	M20	{'usd': '9.22', 'usd_foil': '13.30', 'eur': '7.87', 'tix': '10.50'}
-Leyline of the Void	M11	{'usd': '9.25', 'usd_foil': '33.95', 'eur': '8.64', 'tix': '10.46'}
-Leyline of the Void	GPT	{'usd': '20.69', 'usd_foil': '133.31', 'eur': '10.10', 'tix': '10.56'}
+Leyline of the Void	M20	{'usd': '9.50', 'usd_foil': '14.09', 'eur': '7.93', 'tix': '10.18'}
+Leyline of the Void	M11	{'usd': '9.25', 'usd_foil': '33.95', 'eur': '8.48', 'tix': '9.98'}
+Leyline of the Void	GPT	{'usd': '20.69', 'usd_foil': '133.31', 'eur': '10.03', 'tix': '9.95'}
 Leyline of the Void	PM20	{'usd': '8.67', 'usd_foil': '19.24', 'eur': None, 'tix': None}
-Leyline of the Void	PM20	{'usd': None, 'usd_foil': '12.58', 'eur': None, 'tix': None}
-Roast	DTK	{'usd': '0.23', 'usd_foil': '0.47', 'eur': '0.34', 'tix': '0.03'}
+Leyline of the Void	PM20	{'usd': None, 'usd_foil': '12.70', 'eur': None, 'tix': None}
+Roast	DTK	{'usd': '0.23', 'usd_foil': '0.47', 'eur': '0.31', 'tix': '0.03'}
 Roast	MB1	{'usd': '0.25', 'usd_foil': None, 'eur': None, 'tix': None}
 Roast	PRM	{'usd': None, 'usd_foil': None, 'eur': None, 'tix': '0.04'}
 Roast	F15	{'usd': None, 'usd_foil': '0.40', 'eur': None, 'tix': None}
-Anger of the Gods	IMA	{'usd': '2.64', 'usd_foil': '5.31', 'eur': '3.14', 'tix': '6.97'}
-Anger of the Gods	THS	{'usd': '2.56', 'usd_foil': '6.23', 'eur': '2.59', 'tix': '2.07'}
+Anger of the Gods	IMA	{'usd': '2.62', 'usd_foil': '5.31', 'eur': '3.12', 'tix': '6.47'}
+Anger of the Gods	THS	{'usd': '2.56', 'usd_foil': '6.23', 'eur': '2.48', 'tix': '1.96'}
 Anger of the Gods	MB1	{'usd': '1.95', 'usd_foil': None, 'eur': None, 'tix': None}
-Force of Negation	MH1	{'usd': '29.48', 'usd_foil': '129.20', 'eur': '29.45', 'tix': '50.88'}
-Mystical Dispute	ELD	{'usd': '3.23', 'usd_foil': '6.84', 'eur': '1.02', 'tix': '0.56'}
+Force of Negation	MH1	{'usd': '29.14', 'usd_foil': '127.88', 'eur': '29.37', 'tix': '56.77'}
+Mystical Dispute	ELD	{'usd': '3.33', 'usd_foil': '6.86', 'eur': '1.03', 'tix': '0.82'}
