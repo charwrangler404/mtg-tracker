@@ -24,7 +24,7 @@ def cardlist_get(config):
                     data = scrython.cards.Search(q='++{}'.format(cardname))
                     for card in data.data():
                         card_obj = (card['name'], card['set'].upper(), card['prices']['usd'], card['prices']['usd_foil'])
-                        cards_foil.append(card_obj)
+                        cards.append(card_obj)
                 except ValueError:
                     print('Invalid Card name: ' + cardname)
     return cards
@@ -86,9 +86,9 @@ def update_database(cards, table_name):
     print('Database %s successfully updated' % table_name)
     conn.close()
 
-#cards_usd, cards_foil = cardlist_get(args.cardlist)
-#update_database(cards_usd, cards_foil)
+
 create_table(runtime)
+cards = cardlist_get(args.cardlist)
+update_database(cards, runtime)
 cards = setlist_get(args.setlist)
 update_database(cards, runtime)
-
