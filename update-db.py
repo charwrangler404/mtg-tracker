@@ -18,7 +18,7 @@ def cardlist_get(config):
     with open(config, 'r') as watch_db:
         for cardname in watch_db.readlines():
             print('Fetching ' + cardname, end='')
-            if cardname != '':
+            if cardname:
                 sleep(0.1)
                 try:
                     data = scrython.cards.Search(q='++{}'.format(cardname))
